@@ -13,7 +13,7 @@ Honestly? I just love building things. That moment when a pipeline goes green, a
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> It works on my machine. Then we'll ship your machine. And that's how Docker was born.
+> There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

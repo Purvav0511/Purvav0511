@@ -13,7 +13,7 @@ Honestly? I just love building things. That moment when a pipeline goes green, a
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
+> My code doesn't have bugs. It just develops random undocumented features.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

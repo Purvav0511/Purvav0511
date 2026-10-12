@@ -13,7 +13,7 @@ Honestly? I just love building things. That moment when a pipeline goes green, a
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> Why did the developer go broke? Because he used up all his cache.
+> Why do Java developers wear glasses? Because they don't C#.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

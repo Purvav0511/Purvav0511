@@ -13,7 +13,7 @@ Honestly? I just love building things. That moment when a pipeline goes green, a
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> A programmer's partner says, "Get a loaf of bread, and if they have eggs, get a dozen." He comes home with 12 loaves.
+> The best thing about a Boolean is that even if you're wrong, you're only off by a bit.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

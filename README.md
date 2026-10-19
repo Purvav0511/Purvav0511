@@ -13,7 +13,7 @@ Honestly? I just love building things. That moment when a pipeline goes green, a
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> Why did the function break up with the loop? It felt like they were going in circles.
+> Knock knock. Race condition. Who's there?
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

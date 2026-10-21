@@ -13,7 +13,7 @@ Honestly? I just love building things. That moment when a pipeline goes green, a
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> Why did the ML model go to therapy? Too many unresolved issues with its past data.
+> What's a data engineer's favourite dance? The shuffle, followed by a quick sort.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

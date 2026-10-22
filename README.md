@@ -13,7 +13,7 @@ Honestly? I just love building things. That moment when a pipeline goes green, a
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> What's a data engineer's favourite dance? The shuffle, followed by a quick sort.
+> An Airflow DAG walks into a bar. The bartender says, "We don't serve your kind here." It retries three times.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

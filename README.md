@@ -13,7 +13,7 @@ Honestly? I just love building things. That moment when a pipeline goes green, a
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> Why was the JavaScript developer sad? Because he didn't Node how to Express himself.
+> Real programmers count from 0.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

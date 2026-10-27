@@ -1,6 +1,6 @@
 # Hey there, I'm Purvav 👋⚽
 
-I'm a **Software Engineer at Leidos**, where I build the Python data pipelines on AWS behind the SSA Anti-Fraud program's fraud models: 10M+ records a day across 20+ production models, kept healthy (mostly) without 2 a.m. alerts.
+I'm a **Software Engineer**, where I build the Python data pipelines on AWS behind the SSA Anti-Fraud program's fraud models: 10M+ records a day across 20+ production models, kept healthy (mostly) without 2 a.m. alerts.
 
 Honestly? I just love building things. That moment when a pipeline goes green, a model finally clicks, or a side project goes from "what if…" to "wait, it works?" never gets old. Most weekends you'll find me with a half-finished idea and way too many browser tabs open.
 

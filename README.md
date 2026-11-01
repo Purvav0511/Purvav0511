@@ -45,4 +45,13 @@ I'm a software engineer who just loves building things. That moment when a pipel
 
 ### ⭐ Season highlights
 
-- **[CineFIBO](https://github.com/Purvav0511/cinefibo):** turns one scene into a 12-shot
+- **[CineFIBO](https://github.com/Purvav0511/cinefibo):** turns one scene into a 12-shot coverage plan with OpenAI planning and Bria FIBO renders *(Bria FIBO Hackathon '25, solo build)*
+- **[AI Voice Banking Assistant](https://github.com/Purvav0511/TikTokCodeJam-AICustomerService):** Whisper + GPT-4 voice agent handling 11 banking intents in real time *(TikTok TechJam '24)*
+- **[Zippy](https://github.com/Purvav0511/zippy):** C++ gRPC key-value store at ~21K ops/sec
+- **[Document Q&A](https://github.com/Purvav0511/document-ai-system):** RAG over PDF, CSV, DOCX, and JSON with LangChain and ChromaDB
+- **[Data Poisoning Detection](https://github.com/Purvav0511/Mitigating-Data-Poisoning-in-Machine-Learning-with-Anomaly-Detection-Techniques):** co-authored NYU paper; Isolation Forest detection beat One-Class SVM
+
+### 📫 Say hi
+
+Always happy to chat about data, AI, industrial tech, football, or the best biryani in New York.
+[LinkedIn](https://linkedin.com/in/purvavpunyani) · [purvavpunyani@gmail.com](mailto:purvavpunyani@gmail.com)

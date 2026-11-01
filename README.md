@@ -13,7 +13,7 @@ Honestly? I just love building things. That moment when a pipeline goes green, a
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> The two most common phrases in software: "That's weird" and "How did that ever work?"
+> Why do Python programmers prefer snakes to ladders? Fewer indentation errors on the way down.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

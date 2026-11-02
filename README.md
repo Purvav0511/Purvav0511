@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> Why do Python programmers prefer snakes to ladders? Fewer indentation errors on the way down.
+> I asked the overfitted model for advice. It just repeated what I told it yesterday.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

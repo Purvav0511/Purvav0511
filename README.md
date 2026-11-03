@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> I asked the overfitted model for advice. It just repeated what I told it yesterday.
+> A football fan and a developer walk into a bar. Both spend the night complaining about bad passes.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> Why did the database go to the gym? To work on its core tables.
+> A good programmer looks both ways before crossing a one-way street.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

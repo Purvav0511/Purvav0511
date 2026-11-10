@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> I'd make a joke about recursion, but first I'd have to make a joke about recursion.
+> Why was the cloud bill so high? Someone forgot to turn off the "just testing" cluster.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

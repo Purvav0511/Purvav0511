@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> Why was the cloud bill so high? Someone forgot to turn off the "just testing" cluster.
+> Why did the CSV file feel lonely? Nobody wanted to deal with its commas.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

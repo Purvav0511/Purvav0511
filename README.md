@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> Why did the CSV file feel lonely? Nobody wanted to deal with its commas.
+> Weekend plans: fix one small bug. Monday status: rewrote the whole project.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

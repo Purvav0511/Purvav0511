@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> My biryani and my code have one thing in common: both take hours and are worth it.
+> Why do programmers prefer dark mode? Because light attracts bugs.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

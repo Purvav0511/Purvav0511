@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> There are 10 kinds of people in the world: those who understand binary and those who don't.
+> A SQL query walks into a bar, walks up to two tables and asks, "Can I join you?"
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

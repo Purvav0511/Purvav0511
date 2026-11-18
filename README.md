@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> A SQL query walks into a bar, walks up to two tables and asks, "Can I join you?"
+> I would tell you a UDP joke, but you might not get it.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

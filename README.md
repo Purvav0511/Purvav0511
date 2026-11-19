@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> I would tell you a UDP joke, but you might not get it.
+> I'd tell you a TCP joke, but I'd have to keep repeating it until you acknowledged it.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> Debugging: being the detective in a crime movie where you are also the murderer.
+> It works on my machine. Then we'll ship your machine. And that's how Docker was born.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

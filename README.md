@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
+> My code doesn't have bugs. It just develops random undocumented features.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>

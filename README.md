@@ -11,7 +11,7 @@ I'm a software engineer who just loves building things. That moment when a pipel
 ### 😄 Joke of the day
 
 <!--JOKE:START-->
-> Why do Java developers wear glasses? Because they don't C#.
+> A programmer's partner says, "Get a loaf of bread, and if they have eggs, get a dozen." He comes home with 12 loaves.
 <!--JOKE:END-->
 
 <sub>A fresh one every morning, courtesy of a tiny GitHub Action.</sub>
